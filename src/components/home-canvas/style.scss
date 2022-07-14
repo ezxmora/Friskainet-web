@@ -1,4 +1,6 @@
 #fullscreen-home-canvas {
   display:          block;
+  position:         absolute;
+  z-index:          -1;
   background-color: #242424;
 }
